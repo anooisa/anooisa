@@ -16,12 +16,7 @@
 ![SIEM](https://img.shields.io/badge/SIEM-0078D7?style=for-the-badge&logoColor=white)![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)![Suricata](https://img.shields.io/badge/Suricata-FC4C02?style=for-the-badge&logoColor=white)![Snort](https://img.shields.io/badge/Snort-FF3366?style=for-the-badge&logo=snort&logoColor=white)![OSSEC](https://img.shields.io/badge/OSSEC-3F51B5?style=for-the-badge&logoColor=white)  
 
 ### 🖥️ System & Network Security  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)  
-![TCPDump](https://img.shields.io/badge/TCPDump-0088CC?style=for-the-badge&logoColor=white)  
-![Sysmon](https://img.shields.io/badge/Sysmon-FF5733?style=for-the-badge&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)  ![TCPDump](https://img.shields.io/badge/TCPDump-0088CC?style=for-the-badge&logoColor=white)  ![Sysmon](https://img.shields.io/badge/Sysmon-FF5733?style=for-the-badge&logoColor=white)  
 
 ### 🔐 Threat Intelligence & Detection Engineering  
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-DD0000?style=for-the-badge&logoColor=white)  
