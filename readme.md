@@ -13,12 +13,7 @@
 ![Autopsy](https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logo=autopsy&logoColor=white)[Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=volatility&logoColor=white)[The Sleuth Kit](https://img.shields.io/badge/The_Sleuth_Kit-800000?style=for-the-badge&logoColor=white)[Velociraptor](https://img.shields.io/badge/Velociraptor-1B5E20?style=for-the-badge&logoColor=white)[CyberChef](https://img.shields.io/badge/CyberChef-1976D2?style=for-the-badge&logoColor=white)  
 
 ### 🛡️ Security Operations & Blue Team  
-![SIEM](https://img.shields.io/badge/SIEM-0078D7?style=for-the-badge&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)  
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)  
-![Suricata](https://img.shields.io/badge/Suricata-FC4C02?style=for-the-badge&logoColor=white)  
-![Snort](https://img.shields.io/badge/Snort-FF3366?style=for-the-badge&logo=snort&logoColor=white)  
-![OSSEC](https://img.shields.io/badge/OSSEC-3F51B5?style=for-the-badge&logoColor=white)  
+![SIEM](https://img.shields.io/badge/SIEM-0078D7?style=for-the-badge&logoColor=white)![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)![Suricata](https://img.shields.io/badge/Suricata-FC4C02?style=for-the-badge&logoColor=white)![Snort](https://img.shields.io/badge/Snort-FF3366?style=for-the-badge&logo=snort&logoColor=white)![OSSEC](https://img.shields.io/badge/OSSEC-3F51B5?style=for-the-badge&logoColor=white)  
 
 ### 🖥️ System & Network Security  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
