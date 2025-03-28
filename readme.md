@@ -10,11 +10,7 @@
 
 ## 💻 Tech Stack (Blue Team & DFIR)  
 ### 🔍 Digital Forensics & Incident Response (DFIR)  
-![Autopsy](https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logo=autopsy&logoColor=white)  
-![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=volatility&logoColor=white)  
-![The Sleuth Kit](https://img.shields.io/badge/The_Sleuth_Kit-800000?style=for-the-badge&logoColor=white)  
-![Velociraptor](https://img.shields.io/badge/Velociraptor-1B5E20?style=for-the-badge&logoColor=white)  
-![CyberChef](https://img.shields.io/badge/CyberChef-1976D2?style=for-the-badge&logoColor=white)  
+![Autopsy](https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logo=autopsy&logoColor=white)[Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=volatility&logoColor=white)[The Sleuth Kit](https://img.shields.io/badge/The_Sleuth_Kit-800000?style=for-the-badge&logoColor=white)[Velociraptor](https://img.shields.io/badge/Velociraptor-1B5E20?style=for-the-badge&logoColor=white)[CyberChef](https://img.shields.io/badge/CyberChef-1976D2?style=for-the-badge&logoColor=white)  
 
 ### 🛡️ Security Operations & Blue Team  
 ![SIEM](https://img.shields.io/badge/SIEM-0078D7?style=for-the-badge&logoColor=white)  
